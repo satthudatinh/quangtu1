@@ -1,0 +1,67 @@
+
+.nav-home a{
+    text-decoration: none;
+    color: red;
+    float:right;
+    top:0;
+    right:0 ;
+}
+.img-fluid{
+    border-style: none;
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+.food-title{
+    text-align: center;
+}
+.col-search{
+    background-image: url("../img/bg.jpg");
+     padding: 100px 0;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+.food-content{
+    padding-bottom: 20px;
+}
+.content-food{
+    text-align: center;
+    /*padding-left: 20px;*/
+    /*transform: translate(0,-200px);*/
+}
+.food-text{
+    transform: translate(0,-100px);
+    color: white;
+    font-size: 30px;
+}
+.food-menu{
+    background-color: #ccc;
+    width: 100%;
+    padding-top: 20px;
+}
+.see-food {
+    text-align: center;
+}
+.see-food a{
+    color: red;       
+    text-decoration: none;
+}
+.icon-footer{
+    text-align: center;
+}
+.text-footer{
+    text-align: center;
+}
+.text-footer a{
+    text-decoration: none;
+    color: red;
+}
+.btn-order{
+    background-color: rgba(255,0,157);
+    border-radius: 20px;
+    color: white;
+    border-color: transparent;
+    cursor: pointer;
+    float: left;
+}
+

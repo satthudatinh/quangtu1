@@ -1,0 +1,23 @@
+.nav-home a{
+    color: red;
+}
+.main{
+    background-color: #ccc;
+    
+}
+.status-deli{
+    color: green;
+}
+.status-can{
+    color: red;
+}
+.div-footer{
+    background-color: red;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+}
+.update-order{
+    background-color: green;
+}

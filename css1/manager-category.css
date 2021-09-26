@@ -1,0 +1,30 @@
+.main{
+    background-color: #ccc;
+}
+.nav-home{
+    text-align: center;
+}
+.nav-home a{
+    color: red;
+    
+}
+.delete{
+    background-color: red;
+}
+.update{
+    background-color: green;
+}
+.div-footer{
+    background-color: red;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+}
+.img-main{
+    width: 20%;
+    height: 20%;
+}
+.not-add{
+    color: red;
+}
